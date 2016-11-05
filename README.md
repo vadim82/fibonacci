@@ -20,3 +20,8 @@ You must have nodejs in order to run this sample.
     ```
     .\fib.cmd 25
     ```
+
+
+There are 2 versions of Fibonacci.
+1. Standard recursive
+2. Reactive Extensions version (just for fun).
